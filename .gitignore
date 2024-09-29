@@ -1,0 +1,4 @@
+.env
+chroma.sqlite3
+files/
+db/
